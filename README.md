@@ -1,7 +1,7 @@
 ### Hi there 👋
 This is my faboulous page counter view (So 2000 🤩)
 
-![Visitor Count](https : //profile-counter.glitch.me/kevinpy/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/kevinpy/count.svg)
 
 <!--
 **KevinPy/kevinpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
