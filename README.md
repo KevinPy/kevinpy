@@ -3,6 +3,8 @@ This is my faboulous page counter view (So 2000 🤩)
 
 ![Visitor Count](https://profile-counter.glitch.me/kevinpy/count.svg)
 
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kevinpy)](https://github.com/kevinpy/github-contribution-stats/)
+
 <!--
 **KevinPy/kevinpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
