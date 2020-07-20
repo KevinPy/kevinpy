@@ -1,7 +1,9 @@
-### Hi there 👋
+# Hi there 👋
 This is my faboulous page counter view (So 2000 🤩)
 
 ![Visitor Count](https://profile-counter.glitch.me/kevinpy/count.svg)
+
+## Contribution Stats
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=kevinpy)](https://github.com/kevinpy/github-contribution-stats/)
 
