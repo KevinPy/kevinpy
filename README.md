@@ -2,12 +2,12 @@
 
 
 ## Network
-<a href="https://twitter.com/kevin_py" alt="Twitter"><img src="./icons/twitter.svg" width="32" style="margin:0 4px;" /></a>
-<a href="https://www.linkedin.com/in/kevinpy" alt="Linkedin"><img src="./icons/linkedin.svg" width="32" style="margin:0 4px;" /></a>
-<a href="https://dev.to/kevinpy" alt="Dev.to"><img src="./icons/dev-dot-to.svg" width="32" style="margin:0 4px;" /></a>
-<a href="https://github.com/kevinpy" alt="Github"><img src="./icons/github.svg" width="32" style="margin:0 4px;" /></a>
-<a href="https://gitlab.com/kevinpy" alt="Gitlab"><img src="./icons/gitlab.svg" width="32" style="margin:0 4px;" /></a>
-<a href="https://dribbble.com/kevin_py" alt="Dribbble"><img src="./icons/dribbble.svg" width="32" style="margin:0 4px;" /></a>
+<a href="https://twitter.com/kevin_py" alt="Twitter"><img src="./icons/twitter.svg" width="32" rightmargin="4" /></a>
+<a href="https://www.linkedin.com/in/kevinpy" alt="Linkedin"><img src="./icons/linkedin.svg" width="32" leftmargin="4" rightmargin="4" /></a>
+<a href="https://dev.to/kevinpy" alt="Dev.to"><img src="./icons/dev-dot-to.svg" width="32" leftmargin="4" rightmargin="4" /></a>
+<a href="https://github.com/kevinpy" alt="Github"><img src="./icons/github.svg" width="32" leftmargin="4" rightmargin="4" /></a>
+<a href="https://gitlab.com/kevinpy" alt="Gitlab"><img src="./icons/gitlab.svg" width="32" leftmargin="4" rightmargin="4" /></a>
+<a href="https://dribbble.com/kevin_py" alt="Dribbble"><img src="./icons/dribbble.svg" width="32" leftmargin="4" /></a>
 
 ## Technologies
 | Front-End / Mobile | Back-End / DevOps / Tools | Softwares |
