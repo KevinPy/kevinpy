@@ -19,8 +19,6 @@
 [![Kevin Py StackOverflow](https://stackoverflow-badge.vercel.app/?userID=2223952)](https://stackoverflow.com/users/2223952/kevin-py)
 <br /><br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinpy&layout=compact&langs_count=6" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kevinpy" />
-<br /><br />
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=kevinpy&show_icons=true)
 <br /><br />
 ![Visitor Count](https://profile-counter.glitch.me/kevinpy/count.svg)
