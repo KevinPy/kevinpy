@@ -22,4 +22,6 @@
 <br /><br />
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=kevinpy&show_icons=true)
 <br /><br />
+![My github trophy](https://github-profile-trophy.vercel.app/?username=kevinpy&row=1)
+<br /><br />
 ![Visitor Count](https://profile-counter.glitch.me/kevinpy/count.svg)
