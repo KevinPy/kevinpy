@@ -1,22 +1,50 @@
-![Hero profile image](hero.png)
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin Py
+================================================================================================================================
 
+Sr. Front-End Developer
+-----------------------
 
-## Network
-<a href="https://twitter.com/kevin_py" alt="Twitter"><img src="./icons/twitter.svg" width="32" rightmargin="4" /></a>
-<a href="https://www.linkedin.com/in/kevinpy" alt="Linkedin"><img src="./icons/linkedin.svg" width="32" leftmargin="4" rightmargin="4" /></a>
-<a href="https://dev.to/kevinpy" alt="Dev.to"><img src="./icons/dev-dot-to.svg" width="32" leftmargin="4" rightmargin="4" /></a>
-<a href="https://github.com/kevinpy" alt="Github"><img src="./icons/github.svg" width="32" leftmargin="4" rightmargin="4" /></a>
-<a href="https://gitlab.com/kevinpy" alt="Gitlab"><img src="./icons/gitlab.svg" width="32" leftmargin="4" rightmargin="4" /></a>
-<a href="https://dribbble.com/kevin_py" alt="Dribbble"><img src="./icons/dribbble.svg" width="32" leftmargin="4" /></a>
+Craftsman of the web, specialized in the creation of web and mobile applications, but also in integration and ergonomics. Without forgetting the databases, the deployment and maintenance of sites and applications.
 
-## Technologies
-| Front-End / Mobile | Back-End / DevOps / Tools | Softwares |
-| - | - | - |
-| <img src="./icons/html5.svg" width="32" style="margin:4px;" /><img src="./icons/css3.svg" width="32" style="margin:4px;" /> <img src="./icons/sass.svg" width="32" style="margin:4px;" /><br /><img src="./icons/javascript.svg" width="32" style="margin:4px;" /> <img src="./icons/typescript.svg" width="32" style="margin:4px;" /> <img src="./icons/angular.svg" width="32" style="margin:4px;" /> <img src="./icons/react.svg" width="32" style="margin:4px;" /> <img src="./icons/redux.svg" width="32" style="margin:4px;" /><br /><img src="./icons/next-dot-js.svg" width="32" style="margin:4px;" /> <img src="./icons/awsamplify.svg" width="32" style="margin:4px;" /> <img src="./icons/babel.svg" width="32" style="margin:4px;" /> <img src="./icons/jest.svg" width="32" style="margin:4px;" /> <img src="./icons/prettier.svg" width="32" style="margin:4px;" /> <img src="./icons/webpack.svg" width="32" style="margin:4px;" /> <img src="./icons/styled-components.svg" width="32" style="margin:4px;" /><br /><img src="./icons/swift.svg" width="32" style="margin:4px;" /> | <img src="./icons/amazonaws.svg" width="32" style="margin:4px;" /> <img src="./icons/firebase.svg" width="32" style="margin:4px;" /> <img src="./icons/netlify.svg" width="32" style="margin:4px;" /><br /><img src="./icons/node-dot-js.svg" width="32" style="margin:4px;" /> <img src="./icons/graphql.svg" width="32" style="margin:4px;" /> <img src="./icons/mongodb.svg" width="32" style="margin:4px;" /> <img src="./icons/mysql.svg" width="32" style="margin:4px;" /> <img src="./icons/postgresql.svg" width="32" style="margin:4px;" /> <img src="./icons/sqlite.svg" width="32" style="margin:4px;" /><br /><img src="./icons/git.svg" width="32" style="margin:4px;" /> <img src="./icons/npm.svg" width="32" style="margin:4px;" /> <img src="./icons/postman.svg" width="32" style="margin:4px;" /> <img src="./icons/vercel.svg" width="32" style="margin:4px;" /> | <img src="./icons/sublimetext.svg" width="32" style="margin:4px;" /> <img src="./icons/visualstudiocode.svg" width="32" style="margin:4px;" /> <img src="./icons/webstorm.svg" width="32" style="margin:4px;" /><br /><img src="./icons/sketch.svg" width="32" style="margin:4px;" /><br /><img src="./icons/adobephotoshop.svg" width="32" style="margin:4px;" /> <img src="./icons/adobeillustrator.svg" width="32" style="margin:4px;" /> <img src="./icons/adobeindesign.svg" width="32" style="margin:4px;" /> |
+* 🌍  I'm based in Toulouse, France
+* 🖥️  See my portfolio at [My website](http://pyxel.dev)
+* 🤝  I'm open to collaborating on NextJs, React or Angular projects
 
-
-## Stats
+<a href="https://www.github.com/KevinPy" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/KevinPy?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>
 [![Kevin Py StackOverflow](https://stackoverflow-badge.vercel.app/?userID=2223952)](https://stackoverflow.com/users/2223952/kevin-py)
+
+### Skills
+
+
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sketch-colored.svg" width="36" height="36" alt="Sketch" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/kevinpy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.dribbble.com/kevin_py" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/KevinPy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://kevinpy.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/kevinpy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/2223952/kevin-py" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/kevin_py" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
 <br /><br />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinpy&layout=compact&langs_count=6" />
 <br /><br />
