@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Sr. Front-End Developer
 -----------------------
 
-Craftsman of the web, specialized in the creation of web and mobile applications, but also in integration and ergonomics. Without forgetting the databases, the deployment and maintenance of sites and applications.
+Craftsman of the web, specialized in the creation of web applications.
 
 * 🌍  I'm based in Toulouse, France
-* 🖥️  See my portfolio at [My website](http://pyxel.dev)
+* 🖥️  See [my website](https://kevinpy.com)
 * 🤝  I'm open to collaborating on NextJs, React or Angular projects
 
 <a href="https://www.github.com/KevinPy" target="_blank" rel="noreferrer"><img
