@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kevin Py
 ================================================================================================================================
 
-Tech Lead • Expert Front-End Developer • Software Architect
+CTO • Tech Lead • Expert Front-End Developer • Software Architect • DevOps
 -----------------------
 
 Craftsman of the web, specialized in the creation of web applications.
