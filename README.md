@@ -13,3 +13,5 @@ Craftsman of the web, specialized in the creation of web applications.
 <a href="https://www.github.com/KevinPy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/KevinPy?logo=github&style=for-the-badge&color=facc15&labelColor=27272a" /></a>
 [![Kevin Py StackOverflow](https://stackoverflow-badge.vercel.app/?userID=2223952)](https://stackoverflow.com/users/2223952/kevin-py)
+
+![GitHub Contribution graph - snake game](https://raw.githubusercontent.com/kevinpy/kevinpy/output/github-contribution-grid-snake.svg)
